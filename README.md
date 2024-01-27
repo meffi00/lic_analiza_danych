@@ -1,1 +1,2 @@
-To view performed analysis run jupyter notebook file.
+To view performed analysis run "plots" jupyter notebook file.
+
